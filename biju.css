@@ -1,0 +1,320 @@
+body{
+background-image: url(https://static.vecteezy.com/system/resources/previews/049/925/799/non_2x/abstract-wave-line-pattern-on-dark-blue-background-futuristic-technology-concept-suit-for-banner-poster-cover-brochure-flyer-website-free-vector.jpg);
+}
+#c{
+    background-color: black;
+    height: 35px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+#d{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:white;
+    font-size: 20px;  
+    text-decoration: dotted;
+    font-weight: 100;
+    border-radius: 10%;
+    border-style: dotted;
+    border-color: blue;
+     transition: all;
+    transition-duration: 1s;
+    transition-timing-function:linear;
+    position: relative;
+    left: 100px;
+    bottom: 24px;
+    
+}
+#e{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    text-decoration: double;
+    position: relative;
+    bottom: 60px;
+    width: 40px;
+    left: 450px;
+    border-style:dotted;
+    border-radius: 10%;
+    border-color: blue;
+    transition: all;
+    transition-duration: 1.5s;
+
+}
+#f{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+     font-size: 20px;
+     text-decoration: dotted;
+     /* padding-left: 45vh; */
+     position: relative;
+     bottom: 98px;
+     left: 900px;
+     border-style:dotted;
+    border-radius: 10%;
+    border-color: rgb(236, 40, 178);
+    transition: all;
+    transition-duration: 1.5s;
+}
+#g{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+     font-size: 20px;
+     text-decoration: dotted;
+   /* padding-left: 40vh; */
+   position: relative;
+   left: 1400px;
+   bottom: 135px;
+   border-style:dotted;
+    border-radius: 10%;
+    border-color: rgb(236, 40, 178);
+    transition: all;
+    transition-duration: 1s;
+}
+#h{
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+    background: transparent;
+    height: 30px;
+    text-align: center;
+    padding-left: 30px;
+    width: 215px;
+    transition: all;
+    transition-duration: 1.5s;
+}
+#i{
+    border-style: solid;
+    border-color:black;
+    border-radius: 20%;
+   background: transparent;
+    text-align: center;
+    height: 30px;
+width: 242px;
+transition: all;
+    transition-duration: 1.5s;
+
+}
+.biju{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NqD_V9SlaQ4jyTC05wvfPye5mLZvUnZk2g&s);
+    height: 150px;
+    border-style: solid;
+    border-radius: 10%;
+width: 250px;
+position: relative;
+left: 80vh;
+top: 20vh;
+height: 250px;
+transition: all;
+    transition-duration: 1.5s;
+   z-index: 1;
+  
+
+}
+.sandhya{
+    color: rgb(117, 240, 35);
+   
+}
+.bisan{
+    height: 50px;
+    width: 40px;
+}
+#img1{
+    height: 450px;
+    position: relative;
+    right: 11vh;
+    border-style: solid;
+    border-radius: 10%;
+    background-color: rgb(224, 93, 196);
+     filter: blur();
+     transition: all;
+     transition-duration: 7s;
+}
+#img1:hover{
+    transform:rotate(360deg);
+}
+#img2{
+    position: relative;
+    left: 93vh;
+    height: 450px;
+    transition: all;
+     transition-duration: 7s;
+}
+#img2:hover{
+    transform: rotate(360deg);
+}
+#img3{
+    position: relative;
+    height: 200px;
+    left:40vh ;
+    bottom:57vh;
+    transition: all;
+    transition-duration: 7s;
+}
+#img3:hover{
+    transform: rotate(360deg);
+}
+#aa{
+color: yellow;
+text-align: center;
+text-decoration: dotted;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 50em;
+}
+#img4{
+    position: relative;
+    height: 190px;
+ right:18vh ;
+    bottom:83vh;
+    transition: all;
+    transition-duration: 7s;
+}
+#img4:hover{
+transform: rotate(360deg);
+}
+span{
+    font-size:20px;
+    text-align: center;
+    padding-left: 45px;
+}
+#k{
+    height: 30px;
+    color: rgba(13, 0, 14, 0.911);
+    background-color: rgb(117, 59, 224);
+    border-style: ridge;
+    border-color: blue;
+    border-radius:20%;
+    transition: all;
+    transition-duration: 1s;
+}
+#k:hover{
+    background-color: rgb(28, 4, 163);
+    color: white;
+    font-size: 15px;
+    transform: rotate(40deg);
+}
+#k:active{
+    background-color:purple;
+}
+#d:hover{
+    background-color: rgb(6, 23, 170);
+    color: yellow;
+    font-size: 15px;
+    
+}
+#d:active{
+    background-color: purple;
+}
+#e:hover{
+    background-color:blue;
+    color:yellow;
+    font-size: 15px;
+     
+}
+#e:active{
+    background-color: purple;
+}
+#f:hover{
+    background-color: rgba(255, 35, 145, 0.788);
+    color:yellow;
+    font-size: 15px;
+     
+}
+#f:active{
+    background-color: purple;
+}
+#g:hover{
+    background-color:rgb(219, 0, 102);
+    color:yellow;
+    font-size: 15px;
+}
+#g:active{
+    background-color: purple;
+}
+#h:hover{
+    background-color: rgb(96, 98, 121);
+    color:white;
+    font-size: 20px;
+}
+#h:active{
+    background-color: purple;
+}
+#i:hover{
+    background-color: rgb(92, 95, 122);
+    color: white;
+    font-size: 20px;
+}
+#i:active{
+    background-color: purple;
+}
+#img5{
+    height: 150px;
+    position: relative;
+    bottom: 885px;
+    right: 300px;
+}
+#zz{
+    position: relative;
+   z-index: 1;
+   bottom: 960px;
+   left: 72px;
+   transition: all;
+   transition-duration: 1s;
+}
+#zz:hover{
+    transform: rotate(35deg);
+}
+#aa{
+     position: relative;
+   z-index: 1;
+   bottom: 990px;
+   left: 420px;
+   transition: all;
+   transition-duration: 1s;
+}
+#aa:hover{
+    transform: rotate(35deg);
+}
+#bb{
+    position: relative;
+    z-index: 1;
+   bottom: 1020px;
+   left: 875px;
+   transition: all;
+   transition-duration: 1s;
+}
+#bb:hover{
+    transform: rotate(35deg);
+}
+#cc{
+    position: relative;
+    z-index: 1;
+    bottom: 1050px;
+    left: 1375px;
+    transition: all;
+   transition-duration: 1s;
+}
+#cc:hover{
+    transform: rotate(35deg);
+}
+#aaa{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#dd{
+    background-color: blue;
+    width: 280px;
+    height: 280px;
+    position: relative;
+    left: 610px;
+    bottom: 888px;
+    filter: blur(10px);
+    border-radius: 10%;
+}
